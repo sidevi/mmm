@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5EWMIyQiRQyOOLgCSeT9XcjWgzSu39gkPRUsv5xt8KiJwj/zvYX+/5yWIYDlzb6fxu86F6JBvIqBhY17/Jgug==",
+  "success": true,
+  "projectFilePath": "/home/okosun/mmm/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/okosun/.nuget/packages/passwordgenerator/2.1.0/passwordgenerator.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

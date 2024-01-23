@@ -1,0 +1,17 @@
+/home/okosun/mmm/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/home/okosun/mmm/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/home/okosun/mmm/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/home/okosun/mmm/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/home/okosun/mmm/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
+/home/okosun/mmm/ConsoleApp1/bin/Debug/net7.0/PasswordGenerator.dll
+/home/okosun/mmm/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CopyComplete
